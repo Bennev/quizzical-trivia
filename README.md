@@ -24,9 +24,11 @@ This is a solution to the [Quizzical Trivia solo project on Scrimba](https://scr
 - Tally correct answers after "Check answer" is clicked
 - Styled & polished
 
-### Screenshot
+### Screenshots
 
-![screenshot](/public/images/screenshot.png)
+![screenshot-1](/public/images/screenshot-1.png)
+![screenshot-2](/public/images/screenshot-2.png)
+![screenshot-3](/public/images/screenshot-3.png)
 
 ### Links
 
