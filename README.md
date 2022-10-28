@@ -32,8 +32,8 @@ This is a solution to the [Quizzical Trivia solo project on Scrimba](https://scr
 
 ### Links
 
-- Live Site URL: [@Netlify](https://tenzies-game-bennev.netlify.app/)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/694647d9-c0f4-41b5-bc0d-2677d9e1b3e0/deploy-status)](https://app.netlify.com/sites/tenzies-game-bennev/deploys)
+- Live Site URL: [@Netlify](https://quizzical-trivia-bennev.netlify.app/)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/7ea00321-542b-4c75-933c-155a100d7469/deploy-status)](https://app.netlify.com/sites/quizzical-trivia-bennev/deploys)
 - Solution URL: [@GitHub](https://github.com/Bennev/quizzical-trivia)
 
 ### Getting Started with Create React App
